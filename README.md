@@ -30,9 +30,10 @@ To ensure uninterrupted service, consider adding a backup payment method. We've 
 | **Tax:**                        | **$0.00** |
 | **Total:**                      | **$0.00** |
 
-💳 **Payment Method:**
-- Mastercard-Visa
-**Demo Card Details (For Easy Copying):**
+💳 **Payment Method:**<br>
+- Mastercard-Visa <br>
+
+💳 **Demo Card Details (For Easy Copying):**
 - Card 1: 4723 5746 0022 3210
   - Expiry: 06/2028
   - CVV: 474
