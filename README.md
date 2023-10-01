@@ -8,7 +8,7 @@ Welcome to Google One, your gateway to 2TB of premium storage and more! Your dat
 - Access to Google Experts for All Your Questions
 
 📅 **Trial Period:**
-You have signed up for a trial subscription from Google on Google Play. <br> Your trial will end on April 2, 2024. 
+You have signed up for a trial subscription from Google on Google Play. <br> Your trial will end in  2024. 
 
 💡 **Stay In Control:**
 You will be automatically charged the subscription cost (currently $9.99/month) at the end of your trial unless you cancel. <br> The good news? You can cancel at any time. Manage your subscriptions hassle-free.
